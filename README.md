@@ -1,2 +1,2 @@
 # pathfinding
-Un petit outil en C qui créer des labyrinthes "aléatoires" puis trouve un itinéraire pour en sortir
+Un petit outil en C qui crée des labyrinthes "aléatoires" puis trouve un itinéraire pour en sortir
